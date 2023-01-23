@@ -21,7 +21,7 @@ flowchart LR
 
 | Cluster | Is a Parent | Members in Family | Age | Income | Relationship Status | Children
 | --- | --- | --- | --- | --- | --- | --- |
-| Cluster0 | Yes | 2 to 4 | > 35 and relatively older | Average | Married | Might have a teenager |
-| Cluster1 | No | 1 or 2 | > 30 and relatively older | High | Inclined to be married | No kids |
-| Cluster2 | More inclined to be one | 1 to 3 | 30 to 50 | Low | Inclined to be married | Max 1 kid |
-| Cluster3 | Yes | 2 to 5 | > 35 and relatively older | Average | Married | 1 to 3 (kids and teenager)|
+| 0 | Yes | 2 to 4 | > 35 and relatively older | Average | Married | Might have a teenager |
+| 1 | No | 1 or 2 | > 30 and relatively older | High | Inclined to be married | No kids |
+| 2 | More inclined to be one | 1 to 3 | 30 to 50 | Low | Inclined to be married | Max 1 kid |
+| 3 | Yes | 2 to 5 | > 35 and relatively older | Average | Married | 1 to 3 (kids and teenager)|
