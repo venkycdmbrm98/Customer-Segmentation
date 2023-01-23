@@ -19,7 +19,7 @@ flowchart LR
 
 ## Inference 
 
-|  | Is a Parent | Members in Family | Age | Income | Relationship Status | Children
+| Cluster | Is a Parent | Members in Family | Age | Income | Relationship Status | Children
 | --- | --- | --- | --- | --- | --- | --- |
 | Cluster0 | Yes | 2 to 4 | > 35 and relatively older | Average | Married | Might have a teenager |
 | Cluster1 | No | 1 or 2 | > 30 and relatively older | High | Inclined to be married | No kids |
